@@ -4,7 +4,7 @@ Hopomics of _Humulus lupulus_ brewing cultivars for hops classification based on
 R script may be used for fully processing peak table in .csv format, including QC-XGB signal correction and nested feature selection.
 
 ## Citation:
-> [Yuriy A. Ikhalaynen, et al. "Hopomics of _Humulus lupulus_ brewing cultivars for hops classification based on LC-MS profiling and nested feature selection" ] coming soon
+> Yuriy A. Ikhalaynen, et al. "Hopomics of _Humulus lupulus_ brewing cultivars for hops classification based on LC-MS profiling and nested feature selection" coming soon
 
 ## Dataset Ref:
 > MassIVE: [MSV000089747](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?accession=MSV000089747)
