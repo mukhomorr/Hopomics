@@ -1,7 +1,7 @@
 # Hopomics
 Hopomics of _Humulus lupulus_ brewing cultivars for hops classification based on LC-MS profiling and nested feature selection.
 
-R script may be used for fully processing peak table in .csv format, including QC-XGB signal correction and nested feature selection.
+R script may be used for fully data processing from raw data to peak table, including peak integration & alignment, QC-XGB signal correction and nested feature selection.
 
 ## Citation:
 > Yuriy A. Ikhalaynen, et al. "Hopomics of _Humulus lupulus_ brewing cultivars for hops classification based on LC-MS profiling and nested feature selection" coming soon
