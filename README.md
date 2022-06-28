@@ -1,5 +1,5 @@
 # Hopomics
-Hopomics of _Humulus lupulus_ brewing cultivars for hops classification based on LC-MS profiling and nested feature selection.
+Hopomics: _Humulus lupulus_ brewing cultivars classification based on LC-MS profiling and nested feature selection.
 
 R script may be used for fully data processing from raw data to peak table, including peak integration & alignment, QC-XGB signal correction and nested feature selection.
 
