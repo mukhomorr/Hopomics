@@ -24,7 +24,7 @@ ds <- cbind(ds1,ds2[,-1])
 
 ####new labels load
 
-test_ds <- fread("Копия pos_gen_w_kmeans_lab_c_and_S_Lloyd.csv")
+test_ds <- fread("ГЉГ®ГЇГЁГї pos_gen_w_kmeans_lab_c_and_S_Lloyd.csv")
 ds$Label <- test_ds$`PCA on HCA sum (1 -NA 2 - EU)`
 #### filter signals by time
 library(stringr)
@@ -223,10 +223,7 @@ perform_tests <- function(inner_indecies,dataframe){
   combine <- Reduce(intersect, list(ii_vip_pls,ii_fc, lim_pval))
 return(combine)
 }
-# load your dataset
-d <- iris
-# label your group column
-colnames(d)[5] <- "Label"
+
 # create outer folds (this actually creates test groups)
 outer <- createFolds(ds$Label, 10)
 l_r <- list()
