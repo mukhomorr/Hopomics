@@ -12,7 +12,7 @@
 ### R script may be used for fully data processing from raw data to peak table, including peak integration & alignment, QC-XGB signal correction and nested feature selection.
 
 ## Citation:
-> Yuriy A. Ikhalaynen, et al. "Hopomics of _Humulus lupulus_ brewing cultivars for hops classification based on LC-MS profiling and nested feature selection" __coming soon__
+> [Ikhalaynen Y. A., Plyushchenko I. V., Rodin I. A. (2022). Hopomics: *Humulus lupulus* Brewing Cultivars Classification Based on LC-MS Profiling and Nested Feature Selection. Metabolites, 12(10), 945.](https://www.mdpi.com/2218-1989/12/10/945)
 
 ## Dataset Ref:
 > MassIVE: [MSV000089747](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?accession=MSV000089747)
