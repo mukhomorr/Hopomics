@@ -9,6 +9,7 @@ We also publish here a _in-house_ fragmentation spectra database, which was cons
 
 ## Citation:
 > [Ikhalaynen Y. A., Plyushchenko I. V., Rodin I. A. (2022). Hopomics: *Humulus lupulus* Brewing Cultivars Classification Based on LC-MS Profiling and Nested Feature Selection. Metabolites, 12(10), 945.](https://www.mdpi.com/2218-1989/12/10/945)
+
 > _Comming soon Ikhalaynen Y. A., Vasilieva E.V., Rodin I. A. "Applying molecular networking to hopomics: an in-depth description of Humulus lupulus metabolome"_
 
 ## Dataset Ref:
