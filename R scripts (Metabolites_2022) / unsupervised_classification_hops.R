@@ -139,7 +139,7 @@ pca
 ####load summary table (with group information)
 
 #extract different label vectors
-test_ds <- fread("Копия pos_gen_w_kmeans_lab_c_and_S_Lloyd.csv")
+test_ds <- fread("ГЉГ®ГЇГЁГї pos_gen_w_kmeans_lab_c_and_S_Lloyd.csv")
 original_lab <- test_ds$`ds[, 1]`
 hca_on_pca_lab <- as.character(test_ds$`PCA on HCA sum (1 -North America 2 - EU)`)
 kmeans_lloyd_lab <- as.character(test_ds$`kmeans_lab lloyd`)
